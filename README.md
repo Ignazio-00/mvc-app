@@ -17,3 +17,9 @@
 - **Manually**
 - **Use a DI-Framework**
 - **Write a mini DI-Injector**
+
+
+## Run Code
+
+- **tsc**
+- **node index.js**
